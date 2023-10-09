@@ -25,7 +25,7 @@
         <%
             }
         %>
-        <input type="submit" value="Submit"> <%-- Comment --%>submit button
+        <input type="submit" value="Submit"> <%-- Submit button --%>
     </form>
 </body>
 </html>
